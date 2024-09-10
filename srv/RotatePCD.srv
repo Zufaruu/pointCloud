@@ -1,0 +1,5 @@
+float64 rotation_angle
+string input_pcd_file
+string output_pcd_file
+---
+bool success
