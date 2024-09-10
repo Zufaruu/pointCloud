@@ -7,6 +7,10 @@
   `rosrun pointCloud cli_rotate_pcd`<br>
 - use this command to launch rviz to visualize the point cloud data. <br>
   `rosrun rviz rviz`
-
+- the generated .pcd files are in pcd folder, namely <br>
+`horse_rotated_45.000000.pcd` <br>
+`horse_rotated_90.000000.pcd` <br>
+`horse_rotated_180.000000.pcd` <br>
+`horse_rotated_270.000000.pcd`
   
   
